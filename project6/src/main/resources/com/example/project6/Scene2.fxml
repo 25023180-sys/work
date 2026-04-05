@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.project6.ControllerScene2">
+   <children>
+      <Label fx:id="hello" layoutX="49.0" layoutY="31.0" text="HELLO">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Label>
+      <TextField fx:id="username2" layoutX="207.0" layoutY="50.0" />
+   </children>
+</AnchorPane>
